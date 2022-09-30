@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI", "KPI\KPI.csproj", "{F78CEB0B-223E-4B88-99A5-9873AD720ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78CEB0B-223E-4B88-99A5-9873AD720ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78CEB0B-223E-4B88-99A5-9873AD720ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78CEB0B-223E-4B88-99A5-9873AD720ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78CEB0B-223E-4B88-99A5-9873AD720ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35125772-8D64-4FC5-BB66-C10C2BB194D7}
+	EndGlobalSection
+EndGlobal
